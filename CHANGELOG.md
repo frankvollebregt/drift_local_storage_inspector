@@ -2,7 +2,7 @@
 
 * Support flutter_local_storage_inspector 0.5.0
 * Update Drift dependency to 2.32.0
-* Update flutter_lints dev dependency to 0.6.0
+* Update flutter_lints dev dependency to 6.0.0
 * Update the example app and its build tool versions
 
 ## 0.7.0
